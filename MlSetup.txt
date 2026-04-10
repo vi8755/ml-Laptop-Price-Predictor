@@ -1,0 +1,3 @@
+py -3.11 -m venv ml_env
+ml_env\Scripts\activate
+pip install -r requirements.txt
